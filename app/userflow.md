@@ -29,3 +29,5 @@ flowchart TD
     Header -.-> Cart
     Footer[Подвал: контакты, разделы] -.-> Contacts
 ```
+
+*схемки нарисовал ии
